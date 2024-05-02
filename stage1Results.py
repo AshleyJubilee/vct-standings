@@ -5,6 +5,7 @@ amerMaps = pd.read_csv('resources/amerRegMaps.csv')
 cnMaps = pd.read_csv('resources/cnRegMaps.csv')
 pacMaps = pd.read_csv('resources/pacRegMaps.csv')
 emeaMaps = pd.read_csv('resources/emeaRegMaps.csv')
+groups = pd.read_csv('resources/groups.csv')
 
 regions = {'amer': amerMaps, 'cn': cnMaps, 'pac': pacMaps, 'emea': emeaMaps}
 
@@ -34,5 +35,8 @@ for region in regions.keys():
     teams.insert(2, 'Map Wins', teams.pop('Map Wins'))
     teams.index.rename('team', inplace=True)
     teams.drop(columns=['id'], inplace=True)
+    teams = teams.merge(groups, on='team', how='left')
+    teams.insert(1, 'Group', teams.pop('group'))
+
 
     teams.to_csv(f'resources/{region}Teams.csv')

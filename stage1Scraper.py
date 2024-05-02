@@ -77,7 +77,7 @@ for region in regions:
     df = pd.DataFrame(region[2])
 
     # Add Results
-    df['teamAResult'] = np.where(df['teamAScore'] > df['teamBScore'], 'W', 'L')
+    df['teamAResult'] = np.where(df['teamAScore'].astype(int) > df['teamBScore'].astype(int), 'W', 'L')
     df['teamBResult'] = np.where(df['teamAResult'] == 'W', 'L', 'W')
     df['matchWinner'] = np.where(df['matchResult'].str.split(':', expand=True)[0] == '2', df['teamA'], df['teamB'])
     df['matchLoser'] = np.where(df['matchResult'].str.split(':', expand=True)[1] == '2', df['teamA'], df['teamB'])

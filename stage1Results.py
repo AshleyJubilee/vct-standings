@@ -32,5 +32,7 @@ for region in regions.keys():
     
     teams = pd.merge(record, maps, left_index=True, right_index=True).merge(rounds, left_index=True, right_index=True).astype(int)
     teams.insert(2, 'Map Wins', teams.pop('Map Wins'))
+    teams.index.rename('team', inplace=True)
+    teams.drop(columns=['id'], inplace=True)
 
     teams.to_csv(f'resources/{region}Teams.csv')

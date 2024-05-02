@@ -1,63 +1,63 @@
 id,matchResult,map,teamA,teamAScore,teamB,teamBScore,teamAResult,teamBResult,matchWinner,matchLoser
-319765,2:1,Bind,Bilibili Gaming,3,TYLOO,13,W,L,Bilibili Gaming,TYLOO
-319765,2:1,Icebox,Bilibili Gaming,13,TYLOO,6,L,W,Bilibili Gaming,TYLOO
-319765,2:1,Lotus,Bilibili Gaming,13,TYLOO,6,L,W,Bilibili Gaming,TYLOO
-319766,1:2,Split,Wolves Esports,13,Titan Esports Club,5,L,W,Titan Esports Club,Wolves Esports
+319765,2:1,Bind,Bilibili Gaming,3,TYLOO,13,L,W,Bilibili Gaming,TYLOO
+319765,2:1,Icebox,Bilibili Gaming,13,TYLOO,6,W,L,Bilibili Gaming,TYLOO
+319765,2:1,Lotus,Bilibili Gaming,13,TYLOO,6,W,L,Bilibili Gaming,TYLOO
+319766,1:2,Split,Wolves Esports,13,Titan Esports Club,5,W,L,Titan Esports Club,Wolves Esports
 319766,1:2,Bind,Wolves Esports,12,Titan Esports Club,14,L,W,Titan Esports Club,Wolves Esports
 319766,1:2,Lotus,Wolves Esports,10,Titan Esports Club,13,L,W,Titan Esports Club,Wolves Esports
 319767,1:2,Icebox,Dragon Ranger Gaming,13,All Gamers,11,W,L,All Gamers,Dragon Ranger Gaming
 319767,1:2,Sunset,Dragon Ranger Gaming,11,All Gamers,13,L,W,All Gamers,Dragon Ranger Gaming
-319767,1:2,Breeze,Dragon Ranger Gaming,8,All Gamers,13,W,L,All Gamers,Dragon Ranger Gaming
-319768,2:1,Ascent,EDward Gaming,13,JD Gaming,5,L,W,EDward Gaming,JD Gaming
-319768,2:1,Bind,EDward Gaming,9,JD Gaming,13,W,L,EDward Gaming,JD Gaming
+319767,1:2,Breeze,Dragon Ranger Gaming,8,All Gamers,13,L,W,All Gamers,Dragon Ranger Gaming
+319768,2:1,Ascent,EDward Gaming,13,JD Gaming,5,W,L,EDward Gaming,JD Gaming
+319768,2:1,Bind,EDward Gaming,9,JD Gaming,13,L,W,EDward Gaming,JD Gaming
 319768,2:1,Split,EDward Gaming,13,JD Gaming,11,W,L,EDward Gaming,JD Gaming
-319769,0:2,Lotus,Nova Esports,5,Trace Esports,13,W,L,Trace Esports,Nova Esports
-319769,0:2,Ascent,Nova Esports,9,Trace Esports,13,W,L,Trace Esports,Nova Esports
-319770,2:0,Ascent,FunPlus Phoenix,13,Wolves Esports,8,L,W,FunPlus Phoenix,Wolves Esports
-319770,2:0,Lotus,FunPlus Phoenix,13,Wolves Esports,7,L,W,FunPlus Phoenix,Wolves Esports
-319771,1:2,Sunset,JD Gaming,13,Nova Esports,8,L,W,Nova Esports,JD Gaming
-319771,1:2,Bind,JD Gaming,9,Nova Esports,13,W,L,Nova Esports,JD Gaming
-319771,1:2,Ascent,JD Gaming,4,Nova Esports,13,W,L,Nova Esports,JD Gaming
+319769,0:2,Lotus,Nova Esports,5,Trace Esports,13,L,W,Trace Esports,Nova Esports
+319769,0:2,Ascent,Nova Esports,9,Trace Esports,13,L,W,Trace Esports,Nova Esports
+319770,2:0,Ascent,FunPlus Phoenix,13,Wolves Esports,8,W,L,FunPlus Phoenix,Wolves Esports
+319770,2:0,Lotus,FunPlus Phoenix,13,Wolves Esports,7,W,L,FunPlus Phoenix,Wolves Esports
+319771,1:2,Sunset,JD Gaming,13,Nova Esports,8,W,L,Nova Esports,JD Gaming
+319771,1:2,Bind,JD Gaming,9,Nova Esports,13,L,W,Nova Esports,JD Gaming
+319771,1:2,Ascent,JD Gaming,4,Nova Esports,13,L,W,Nova Esports,JD Gaming
 319772,2:1,Breeze,FunPlus Phoenix,13,Dragon Ranger Gaming,11,W,L,FunPlus Phoenix,Dragon Ranger Gaming
-319772,2:1,Icebox,FunPlus Phoenix,9,Dragon Ranger Gaming,13,W,L,FunPlus Phoenix,Dragon Ranger Gaming
-319772,2:1,Sunset,FunPlus Phoenix,13,Dragon Ranger Gaming,3,L,W,FunPlus Phoenix,Dragon Ranger Gaming
-319773,0:2,Breeze,All Gamers,9,Wolves Esports,13,W,L,Wolves Esports,All Gamers
+319772,2:1,Icebox,FunPlus Phoenix,9,Dragon Ranger Gaming,13,L,W,FunPlus Phoenix,Dragon Ranger Gaming
+319772,2:1,Sunset,FunPlus Phoenix,13,Dragon Ranger Gaming,3,W,L,FunPlus Phoenix,Dragon Ranger Gaming
+319773,0:2,Breeze,All Gamers,9,Wolves Esports,13,L,W,Wolves Esports,All Gamers
 319773,0:2,Icebox,All Gamers,12,Wolves Esports,14,L,W,Wolves Esports,All Gamers
 319774,2:1,Split,Trace Esports,11,Bilibili Gaming,13,L,W,Trace Esports,Bilibili Gaming
-319774,2:1,Breeze,Trace Esports,13,Bilibili Gaming,7,L,W,Trace Esports,Bilibili Gaming
-319774,2:1,Bind,Trace Esports,13,Bilibili Gaming,7,L,W,Trace Esports,Bilibili Gaming
-319775,2:1,Breeze,Dragon Ranger Gaming,4,Titan Esports Club,13,W,L,Dragon Ranger Gaming,Titan Esports Club
-319775,2:1,Split,Dragon Ranger Gaming,13,Titan Esports Club,7,L,W,Dragon Ranger Gaming,Titan Esports Club
-319775,2:1,Icebox,Dragon Ranger Gaming,13,Titan Esports Club,5,L,W,Dragon Ranger Gaming,Titan Esports Club
-319776,0:2,Sunset,TYLOO,5,EDward Gaming,13,W,L,EDward Gaming,TYLOO
+319774,2:1,Breeze,Trace Esports,13,Bilibili Gaming,7,W,L,Trace Esports,Bilibili Gaming
+319774,2:1,Bind,Trace Esports,13,Bilibili Gaming,7,W,L,Trace Esports,Bilibili Gaming
+319775,2:1,Breeze,Dragon Ranger Gaming,4,Titan Esports Club,13,L,W,Dragon Ranger Gaming,Titan Esports Club
+319775,2:1,Split,Dragon Ranger Gaming,13,Titan Esports Club,7,W,L,Dragon Ranger Gaming,Titan Esports Club
+319775,2:1,Icebox,Dragon Ranger Gaming,13,Titan Esports Club,5,W,L,Dragon Ranger Gaming,Titan Esports Club
+319776,0:2,Sunset,TYLOO,5,EDward Gaming,13,L,W,EDward Gaming,TYLOO
 319776,0:2,Bind,TYLOO,10,EDward Gaming,13,L,W,EDward Gaming,TYLOO
-319777,0:2,Ascent,Wolves Esports,9,Trace Esports,13,W,L,Trace Esports,Wolves Esports
-319777,0:2,Lotus,Wolves Esports,9,Trace Esports,13,W,L,Trace Esports,Wolves Esports
-319778,0:2,Ascent,Nova Esports,6,FunPlus Phoenix,13,W,L,FunPlus Phoenix,Nova Esports
-319778,0:2,Lotus,Nova Esports,4,FunPlus Phoenix,13,W,L,FunPlus Phoenix,Nova Esports
+319777,0:2,Ascent,Wolves Esports,9,Trace Esports,13,L,W,Trace Esports,Wolves Esports
+319777,0:2,Lotus,Wolves Esports,9,Trace Esports,13,L,W,Trace Esports,Wolves Esports
+319778,0:2,Ascent,Nova Esports,6,FunPlus Phoenix,13,L,W,FunPlus Phoenix,Nova Esports
+319778,0:2,Lotus,Nova Esports,4,FunPlus Phoenix,13,L,W,FunPlus Phoenix,Nova Esports
 319779,0:2,Lotus,Bilibili Gaming,11,All Gamers,13,L,W,All Gamers,Bilibili Gaming
-319779,0:2,Bind,Bilibili Gaming,7,All Gamers,13,W,L,All Gamers,Bilibili Gaming
-319780,2:1,Breeze,Dragon Ranger Gaming,13,JD Gaming,7,L,W,Dragon Ranger Gaming,JD Gaming
-319780,2:1,Icebox,Dragon Ranger Gaming,5,JD Gaming,13,W,L,Dragon Ranger Gaming,JD Gaming
+319779,0:2,Bind,Bilibili Gaming,7,All Gamers,13,L,W,All Gamers,Bilibili Gaming
+319780,2:1,Breeze,Dragon Ranger Gaming,13,JD Gaming,7,W,L,Dragon Ranger Gaming,JD Gaming
+319780,2:1,Icebox,Dragon Ranger Gaming,5,JD Gaming,13,L,W,Dragon Ranger Gaming,JD Gaming
 319780,2:1,Bind,Dragon Ranger Gaming,14,JD Gaming,12,W,L,Dragon Ranger Gaming,JD Gaming
 319781,2:1,Icebox,TYLOO,10,Nova Esports,13,L,W,TYLOO,Nova Esports
 319781,2:1,Ascent,TYLOO,14,Nova Esports,12,W,L,TYLOO,Nova Esports
-319781,2:1,Split,TYLOO,13,Nova Esports,9,L,W,TYLOO,Nova Esports
-319782,2:0,Ascent,EDward Gaming,13,Titan Esports Club,5,L,W,EDward Gaming,Titan Esports Club
-319782,2:0,Sunset,EDward Gaming,13,Titan Esports Club,5,L,W,EDward Gaming,Titan Esports Club
+319781,2:1,Split,TYLOO,13,Nova Esports,9,W,L,TYLOO,Nova Esports
+319782,2:0,Ascent,EDward Gaming,13,Titan Esports Club,5,W,L,EDward Gaming,Titan Esports Club
+319782,2:0,Sunset,EDward Gaming,13,Titan Esports Club,5,W,L,EDward Gaming,Titan Esports Club
 319783,2:1,Sunset,Titan Esports Club,13,Bilibili Gaming,11,W,L,Titan Esports Club,Bilibili Gaming
-319783,2:1,Bind,Titan Esports Club,8,Bilibili Gaming,13,W,L,Titan Esports Club,Bilibili Gaming
-319783,2:1,Icebox,Titan Esports Club,13,Bilibili Gaming,6,L,W,Titan Esports Club,Bilibili Gaming
-319784,0:2,Breeze,Trace Esports,7,Dragon Ranger Gaming,13,W,L,Dragon Ranger Gaming,Trace Esports
+319783,2:1,Bind,Titan Esports Club,8,Bilibili Gaming,13,L,W,Titan Esports Club,Bilibili Gaming
+319783,2:1,Icebox,Titan Esports Club,13,Bilibili Gaming,6,W,L,Titan Esports Club,Bilibili Gaming
+319784,0:2,Breeze,Trace Esports,7,Dragon Ranger Gaming,13,L,W,Dragon Ranger Gaming,Trace Esports
 319784,0:2,Sunset,Trace Esports,10,Dragon Ranger Gaming,13,L,W,Dragon Ranger Gaming,Trace Esports
 319785,1:2,Sunset,TYLOO,11,Wolves Esports,13,L,W,Wolves Esports,TYLOO
-319785,1:2,Split,TYLOO,13,Wolves Esports,7,L,W,Wolves Esports,TYLOO
+319785,1:2,Split,TYLOO,13,Wolves Esports,7,W,L,Wolves Esports,TYLOO
 319785,1:2,Ascent,TYLOO,10,Wolves Esports,13,L,W,Wolves Esports,TYLOO
-319786,2:1,Breeze,FunPlus Phoenix,4,EDward Gaming,13,W,L,FunPlus Phoenix,EDward Gaming
+319786,2:1,Breeze,FunPlus Phoenix,4,EDward Gaming,13,L,W,FunPlus Phoenix,EDward Gaming
 319786,2:1,Bind,FunPlus Phoenix,13,EDward Gaming,11,W,L,FunPlus Phoenix,EDward Gaming
-319786,2:1,Ascent,FunPlus Phoenix,13,EDward Gaming,4,L,W,FunPlus Phoenix,EDward Gaming
+319786,2:1,Ascent,FunPlus Phoenix,13,EDward Gaming,4,W,L,FunPlus Phoenix,EDward Gaming
 319787,2:1,Lotus,All Gamers,16,Nova Esports,14,W,L,All Gamers,Nova Esports
 319787,2:1,Bind,All Gamers,10,Nova Esports,13,L,W,All Gamers,Nova Esports
-319787,2:1,Split,All Gamers,13,Nova Esports,7,L,W,All Gamers,Nova Esports
-319788,2:0,Icebox,Bilibili Gaming,13,JD Gaming,8,L,W,Bilibili Gaming,JD Gaming
+319787,2:1,Split,All Gamers,13,Nova Esports,7,W,L,All Gamers,Nova Esports
+319788,2:0,Icebox,Bilibili Gaming,13,JD Gaming,8,W,L,Bilibili Gaming,JD Gaming
 319788,2:0,Lotus,Bilibili Gaming,13,JD Gaming,10,W,L,Bilibili Gaming,JD Gaming

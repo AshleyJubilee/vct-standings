@@ -1,12 +1,12 @@
-,Wins,Losses,Map Wins,Map Losses,Map Delta,id,Round Wins,Round Losses,Round Delta
-100 Thieves,2,2,4,5,-1,2831728,96,93,3
-Cloud9,4,1,6,8,-2,4404883,151,137,14
-Evil Geniuses,2,3,9,4,5,4090277,126,154,-28
-FURIA,0,4,9,1,8,3146354,67,117,-50
-G2 Esports,3,2,4,7,-3,3460994,123,89,34
-KRÜ Esports,5,0,0,12,-12,3775640,152,99,53
-LOUD,1,3,6,3,3,2831727,80,104,-24
-Leviatán,3,1,4,6,-2,3146324,128,102,26
-MIBR,0,4,8,0,8,2517098,48,104,-56
-NRG Esports,3,2,5,6,-1,3461005,119,100,19
-Sentinels,2,3,4,7,-3,3460986,129,120,9
+team,Wins,Losses,Map Wins,Map Losses,Map Delta,Round Wins,Round Losses,Round Delta
+100 Thieves,2,2,5,4,1,96,93,3
+Cloud9,4,1,8,6,2,151,137,14
+Evil Geniuses,2,3,5,8,-3,126,154,-28
+FURIA,0,4,2,8,-6,67,117,-50
+G2 Esports,3,2,7,4,3,123,89,34
+KRÜ Esports,5,0,10,2,8,152,99,53
+LOUD,1,3,3,6,-3,80,104,-24
+Leviatán,3,1,7,3,4,128,102,26
+MIBR,0,4,0,8,-8,48,104,-56
+NRG Esports,3,2,7,4,3,119,100,19
+Sentinels,2,3,5,6,-1,129,120,9

@@ -1,64 +1,64 @@
 id,matchResult,map,teamA,teamAScore,teamB,teamBScore,teamAResult,teamBResult,matchWinner,matchLoser
-318911,2:0,Breeze,Karmine Corp,13,GIANTX,4,L,W,Karmine Corp,GIANTX
-318911,2:0,Sunset,Karmine Corp,13,GIANTX,9,L,W,Karmine Corp,GIANTX
-318913,0:2,Split,KOI,9,Team Liquid,13,W,L,Team Liquid,KOI
-318913,0:2,Ascent,KOI,7,Team Liquid,13,W,L,Team Liquid,KOI
-318914,0:2,Bind,Team Vitality,9,Natus Vincere,13,W,L,Natus Vincere,Team Vitality
-318914,0:2,Lotus,Team Vitality,4,Natus Vincere,13,W,L,Natus Vincere,Team Vitality
-318915,0:2,Icebox,FNATIC,4,Team Heretics,13,W,L,Team Heretics,FNATIC
+318911,2:0,Breeze,Karmine Corp,13,GIANTX,4,W,L,Karmine Corp,GIANTX
+318911,2:0,Sunset,Karmine Corp,13,GIANTX,9,W,L,Karmine Corp,GIANTX
+318913,0:2,Split,KOI,9,Team Liquid,13,L,W,Team Liquid,KOI
+318913,0:2,Ascent,KOI,7,Team Liquid,13,L,W,Team Liquid,KOI
+318914,0:2,Bind,Team Vitality,9,Natus Vincere,13,L,W,Natus Vincere,Team Vitality
+318914,0:2,Lotus,Team Vitality,4,Natus Vincere,13,L,W,Natus Vincere,Team Vitality
+318915,0:2,Icebox,FNATIC,4,Team Heretics,13,L,W,Team Heretics,FNATIC
 318915,0:2,Lotus,FNATIC,15,Team Heretics,17,L,W,Team Heretics,FNATIC
-318916,0:2,Split,Team Liquid,5,FUT Esports,13,W,L,FUT Esports,Team Liquid
-318916,0:2,Icebox,Team Liquid,8,FUT Esports,13,W,L,FUT Esports,Team Liquid
-318917,0:2,Ascent,BBL Esports,7,Gentle Mates,13,W,L,Gentle Mates,BBL Esports
+318916,0:2,Split,Team Liquid,5,FUT Esports,13,L,W,FUT Esports,Team Liquid
+318916,0:2,Icebox,Team Liquid,8,FUT Esports,13,L,W,FUT Esports,Team Liquid
+318917,0:2,Ascent,BBL Esports,7,Gentle Mates,13,L,W,Gentle Mates,BBL Esports
 318917,0:2,Sunset,BBL Esports,11,Gentle Mates,13,L,W,Gentle Mates,BBL Esports
 318918,1:2,Bind,Karmine Corp,13,FUT Esports,11,W,L,FUT Esports,Karmine Corp
-318918,1:2,Lotus,Karmine Corp,8,FUT Esports,13,W,L,FUT Esports,Karmine Corp
-318918,1:2,Breeze,Karmine Corp,7,FUT Esports,13,W,L,FUT Esports,Karmine Corp
-318919,2:1,Breeze,Team Vitality,13,Team Heretics,9,L,W,Team Vitality,Team Heretics
+318918,1:2,Lotus,Karmine Corp,8,FUT Esports,13,L,W,FUT Esports,Karmine Corp
+318918,1:2,Breeze,Karmine Corp,7,FUT Esports,13,L,W,FUT Esports,Karmine Corp
+318919,2:1,Breeze,Team Vitality,13,Team Heretics,9,W,L,Team Vitality,Team Heretics
 318919,2:1,Sunset,Team Vitality,11,Team Heretics,13,L,W,Team Vitality,Team Heretics
-318919,2:1,Icebox,Team Vitality,13,Team Heretics,9,L,W,Team Vitality,Team Heretics
+318919,2:1,Icebox,Team Vitality,13,Team Heretics,9,W,L,Team Vitality,Team Heretics
 318920,1:2,Lotus,Team Liquid,13,Natus Vincere,10,W,L,Natus Vincere,Team Liquid
 318920,1:2,Split,Team Liquid,11,Natus Vincere,13,L,W,Natus Vincere,Team Liquid
-318920,1:2,Ascent,Team Liquid,5,Natus Vincere,13,W,L,Natus Vincere,Team Liquid
-318921,2:0,Breeze,BBL Esports,13,KOI,4,L,W,BBL Esports,KOI
-318921,2:0,Icebox,BBL Esports,13,KOI,3,L,W,BBL Esports,KOI
-318922,2:1,Bind,FNATIC,13,GIANTX,5,L,W,FNATIC,GIANTX
-318922,2:1,Breeze,FNATIC,5,GIANTX,13,W,L,FNATIC,GIANTX
-318922,2:1,Split,FNATIC,13,GIANTX,7,L,W,FNATIC,GIANTX
-318923,2:0,Split,Karmine Corp,13,Gentle Mates,6,L,W,Karmine Corp,Gentle Mates
-318923,2:0,Icebox,Karmine Corp,13,Gentle Mates,6,L,W,Karmine Corp,Gentle Mates
-318924,0:2,Breeze,Gentle Mates,6,FNATIC,13,W,L,FNATIC,Gentle Mates
-318924,0:2,Lotus,Gentle Mates,4,FNATIC,13,W,L,FNATIC,Gentle Mates
-318925,1:2,Bind,Karmine Corp,13,Natus Vincere,7,L,W,Natus Vincere,Karmine Corp
-318925,1:2,Sunset,Karmine Corp,7,Natus Vincere,13,W,L,Natus Vincere,Karmine Corp
-318925,1:2,Split,Karmine Corp,6,Natus Vincere,13,W,L,Natus Vincere,Karmine Corp
-318926,2:0,Split,BBL Esports,13,Team Heretics,7,L,W,BBL Esports,Team Heretics
+318920,1:2,Ascent,Team Liquid,5,Natus Vincere,13,L,W,Natus Vincere,Team Liquid
+318921,2:0,Breeze,BBL Esports,13,KOI,4,W,L,BBL Esports,KOI
+318921,2:0,Icebox,BBL Esports,13,KOI,3,W,L,BBL Esports,KOI
+318922,2:1,Bind,FNATIC,13,GIANTX,5,W,L,FNATIC,GIANTX
+318922,2:1,Breeze,FNATIC,5,GIANTX,13,L,W,FNATIC,GIANTX
+318922,2:1,Split,FNATIC,13,GIANTX,7,W,L,FNATIC,GIANTX
+318923,2:0,Split,Karmine Corp,13,Gentle Mates,6,W,L,Karmine Corp,Gentle Mates
+318923,2:0,Icebox,Karmine Corp,13,Gentle Mates,6,W,L,Karmine Corp,Gentle Mates
+318924,0:2,Breeze,Gentle Mates,6,FNATIC,13,L,W,FNATIC,Gentle Mates
+318924,0:2,Lotus,Gentle Mates,4,FNATIC,13,L,W,FNATIC,Gentle Mates
+318925,1:2,Bind,Karmine Corp,13,Natus Vincere,7,W,L,Natus Vincere,Karmine Corp
+318925,1:2,Sunset,Karmine Corp,7,Natus Vincere,13,L,W,Natus Vincere,Karmine Corp
+318925,1:2,Split,Karmine Corp,6,Natus Vincere,13,L,W,Natus Vincere,Karmine Corp
+318926,2:0,Split,BBL Esports,13,Team Heretics,7,W,L,BBL Esports,Team Heretics
 318926,2:0,Sunset,BBL Esports,13,Team Heretics,10,W,L,BBL Esports,Team Heretics
-318927,2:1,Ascent,Team Vitality,7,FUT Esports,13,W,L,Team Vitality,FUT Esports
-318927,2:1,Icebox,Team Vitality,13,FUT Esports,9,L,W,Team Vitality,FUT Esports
-318927,2:1,Sunset,Team Vitality,13,FUT Esports,9,L,W,Team Vitality,FUT Esports
+318927,2:1,Ascent,Team Vitality,7,FUT Esports,13,L,W,Team Vitality,FUT Esports
+318927,2:1,Icebox,Team Vitality,13,FUT Esports,9,W,L,Team Vitality,FUT Esports
+318927,2:1,Sunset,Team Vitality,13,FUT Esports,9,W,L,Team Vitality,FUT Esports
 318928,2:1,Lotus,Team Liquid,14,GIANTX,16,L,W,Team Liquid,GIANTX
-318928,2:1,Icebox,Team Liquid,13,GIANTX,7,L,W,Team Liquid,GIANTX
+318928,2:1,Icebox,Team Liquid,13,GIANTX,7,W,L,Team Liquid,GIANTX
 318928,2:1,Ascent,Team Liquid,13,GIANTX,11,W,L,Team Liquid,GIANTX
 318929,2:0,Bind,FNATIC,13,KOI,11,W,L,FNATIC,KOI
-318929,2:0,Icebox,FNATIC,13,KOI,4,L,W,FNATIC,KOI
-318930,0:2,Sunset,Team Liquid,2,Team Heretics,13,W,L,Team Heretics,Team Liquid
-318930,0:2,Bind,Team Liquid,7,Team Heretics,13,W,L,Team Heretics,Team Liquid
-318931,0:2,Icebox,Team Vitality,5,Gentle Mates,13,W,L,Gentle Mates,Team Vitality
-318931,0:2,Sunset,Team Vitality,5,Gentle Mates,13,W,L,Gentle Mates,Team Vitality
-318932,0:2,Split,FNATIC,7,FUT Esports,13,W,L,FUT Esports,FNATIC
+318929,2:0,Icebox,FNATIC,13,KOI,4,W,L,FNATIC,KOI
+318930,0:2,Sunset,Team Liquid,2,Team Heretics,13,L,W,Team Heretics,Team Liquid
+318930,0:2,Bind,Team Liquid,7,Team Heretics,13,L,W,Team Heretics,Team Liquid
+318931,0:2,Icebox,Team Vitality,5,Gentle Mates,13,L,W,Gentle Mates,Team Vitality
+318931,0:2,Sunset,Team Vitality,5,Gentle Mates,13,L,W,Gentle Mates,Team Vitality
+318932,0:2,Split,FNATIC,7,FUT Esports,13,L,W,FUT Esports,FNATIC
 318932,0:2,Lotus,FNATIC,13,FUT Esports,15,L,W,FUT Esports,FNATIC
-318933,2:1,Ascent,BBL Esports,8,Natus Vincere,13,W,L,BBL Esports,Natus Vincere
-318933,2:1,Sunset,BBL Esports,13,Natus Vincere,8,L,W,BBL Esports,Natus Vincere
-318933,2:1,Split,BBL Esports,13,Natus Vincere,9,L,W,BBL Esports,Natus Vincere
+318933,2:1,Ascent,BBL Esports,8,Natus Vincere,13,L,W,BBL Esports,Natus Vincere
+318933,2:1,Sunset,BBL Esports,13,Natus Vincere,8,W,L,BBL Esports,Natus Vincere
+318933,2:1,Split,BBL Esports,13,Natus Vincere,9,W,L,BBL Esports,Natus Vincere
 318934,2:1,Lotus,Team Vitality,14,GIANTX,16,L,W,Team Vitality,GIANTX
-318934,2:1,Breeze,Team Vitality,13,GIANTX,7,L,W,Team Vitality,GIANTX
-318934,2:1,Sunset,Team Vitality,13,GIANTX,6,L,W,Team Vitality,GIANTX
-318935,2:1,Sunset,Karmine Corp,13,KOI,7,L,W,Karmine Corp,KOI
-318935,2:1,Icebox,Karmine Corp,7,KOI,13,W,L,Karmine Corp,KOI
+318934,2:1,Breeze,Team Vitality,13,GIANTX,7,W,L,Team Vitality,GIANTX
+318934,2:1,Sunset,Team Vitality,13,GIANTX,6,W,L,Team Vitality,GIANTX
+318935,2:1,Sunset,Karmine Corp,13,KOI,7,W,L,Karmine Corp,KOI
+318935,2:1,Icebox,Karmine Corp,7,KOI,13,L,W,Karmine Corp,KOI
 318935,2:1,Bind,Karmine Corp,15,KOI,13,W,L,Karmine Corp,KOI
-318936,0:2,Bind,BBL Esports,6,GIANTX,13,W,L,GIANTX,BBL Esports
+318936,0:2,Bind,BBL Esports,6,GIANTX,13,L,W,GIANTX,BBL Esports
 318936,0:2,Sunset,BBL Esports,11,GIANTX,13,L,W,GIANTX,BBL Esports
 318937,1:2,Icebox,Karmine Corp,12,Team Heretics,14,L,W,Team Heretics,Karmine Corp
-318937,1:2,Lotus,Karmine Corp,13,Team Heretics,5,L,W,Team Heretics,Karmine Corp
-318937,1:2,Bind,Karmine Corp,9,Team Heretics,13,W,L,Team Heretics,Karmine Corp
+318937,1:2,Lotus,Karmine Corp,13,Team Heretics,5,W,L,Team Heretics,Karmine Corp
+318937,1:2,Bind,Karmine Corp,9,Team Heretics,13,L,W,Team Heretics,Karmine Corp

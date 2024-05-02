@@ -1,12 +1,12 @@
-,Wins,Losses,Map Wins,Map Losses,Map Delta,id,Round Wins,Round Losses,Round Delta
-BLEED,1,5,11,4,7,4714743,122,172,-50
-DRX,5,0,3,9,-6,3771755,148,97,51
-DetonatioN FocusMe,1,4,11,3,8,4400451,118,166,-48
-Gen.G,3,3,4,11,-7,4714752,173,153,20
-Global Esports,2,4,9,6,3,4714721,140,162,-22
-Paper Rex,4,1,5,6,-1,3457473,133,100,33
-Rex Regum Qeon,3,2,9,3,6,3771797,116,128,-12
-T1,2,4,3,12,-9,4714715,164,165,-1
-Talon Esports,4,1,9,4,5,4086091,146,138,8
-Team Secret,3,3,5,11,-6,5029045,178,160,18
-ZETA DIVISION,2,3,7,7,0,4400409,151,148,3
+team,Wins,Losses,Map Wins,Map Losses,Map Delta,Round Wins,Round Losses,Round Delta
+BLEED,1,5,4,11,-7,122,172,-50
+DRX,5,0,10,2,8,148,97,51
+DetonatioN FocusMe,1,4,5,9,-4,118,166,-48
+Gen.G,3,3,9,6,3,173,153,20
+Global Esports,2,4,6,9,-3,140,162,-22
+Paper Rex,4,1,8,3,5,133,100,33
+Rex Regum Qeon,3,2,6,6,0,116,128,-12
+T1,2,4,6,9,-3,164,165,-1
+Talon Esports,4,1,8,5,3,146,138,8
+Team Secret,3,3,8,8,0,178,160,18
+ZETA DIVISION,2,3,6,8,-2,151,148,3

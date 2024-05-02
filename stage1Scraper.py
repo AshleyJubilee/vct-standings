@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import numpy as np
 import uvicorn
 
 # uvicorn.run("main:app", port=5000, log_level="info")
@@ -72,5 +73,26 @@ for region in regions:
 
 # To CSV
 for region in regions:
+
     df = pd.DataFrame(region[2])
-    df.to_csv(f'resources/{region[0]}.csv', index=False)
+
+    # Add Results
+    df['teamAResult'] = np.where(df['teamAScore'] > df['teamBScore'], 'W', 'L')
+    df['teamBResult'] = np.where(df['teamAResult'] == 'W', 'L', 'W')
+    df['matchWinner'] = np.where(df['matchResult'].str.split(':', expand=True)[0] == '2', df['teamA'], df['teamB'])
+    df['matchLoser'] = np.where(df['matchResult'].str.split(':', expand=True)[1] == '2', df['teamA'], df['teamB'])
+
+    df.to_csv(f'resources/{region[0]}Maps.csv', index=False)
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+id,matchResult,map,teamA,teamAScore,teamB,teamBScore,teamAResult,teamBResult,matchWinner,matchLoser
+314301,1:2,Sunset,Global Esports,1,ZETA DIVISION,13,L,W,ZETA DIVISION,Global Esports
+314301,1:2,Icebox,Global Esports,13,ZETA DIVISION,10,W,L,ZETA DIVISION,Global Esports
+314301,1:2,Ascent,Global Esports,8,ZETA DIVISION,13,W,L,ZETA DIVISION,Global Esports
+314302,0:2,Sunset,Team Secret,8,DRX,13,W,L,DRX,Team Secret
+314302,0:2,Lotus,Team Secret,8,DRX,13,W,L,DRX,Team Secret
+314303,1:2,Lotus,BLEED,13,Talon Esports,9,L,W,Talon Esports,BLEED
+314303,1:2,Bind,BLEED,7,Talon Esports,13,W,L,Talon Esports,BLEED
+314303,1:2,Icebox,BLEED,6,Talon Esports,13,W,L,Talon Esports,BLEED
+314304,0:2,Lotus,T1,10,Paper Rex,13,L,W,Paper Rex,T1
+314304,0:2,Bind,T1,12,Paper Rex,14,L,W,Paper Rex,T1
+314305,1:2,Breeze,Team Secret,10,Rex Regum Qeon,13,L,W,Rex Regum Qeon,Team Secret
+314305,1:2,Split,Team Secret,13,Rex Regum Qeon,6,L,W,Rex Regum Qeon,Team Secret
+314305,1:2,Icebox,Team Secret,12,Rex Regum Qeon,14,L,W,Rex Regum Qeon,Team Secret
+314306,0:2,Ascent,Global Esports,8,DRX,13,W,L,DRX,Global Esports
+314306,0:2,Lotus,Global Esports,6,DRX,13,W,L,DRX,Global Esports
+314307,2:0,Lotus,Gen.G,13,Talon Esports,9,L,W,Gen.G,Talon Esports
+314307,2:0,Ascent,Gen.G,13,Talon Esports,8,L,W,Gen.G,Talon Esports
+314308,1:2,Ascent,T1,10,DetonatioN FocusMe,13,L,W,DetonatioN FocusMe,T1
+314308,1:2,Lotus,T1,13,DetonatioN FocusMe,5,L,W,DetonatioN FocusMe,T1
+314308,1:2,Sunset,T1,11,DetonatioN FocusMe,13,L,W,DetonatioN FocusMe,T1
+314309,1:2,Lotus,Gen.G,13,Paper Rex,11,W,L,Paper Rex,Gen.G
+314309,1:2,Icebox,Gen.G,11,Paper Rex,13,L,W,Paper Rex,Gen.G
+314309,1:2,Bind,Gen.G,6,Paper Rex,13,W,L,Paper Rex,Gen.G
+314310,1:2,Breeze,T1,13,DRX,9,L,W,DRX,T1
+314310,1:2,Split,T1,5,DRX,13,W,L,DRX,T1
+314310,1:2,Bind,T1,6,DRX,13,W,L,DRX,T1
+314311,2:1,Icebox,Team Secret,13,ZETA DIVISION,8,L,W,Team Secret,ZETA DIVISION
+314311,2:1,Lotus,Team Secret,6,ZETA DIVISION,13,W,L,Team Secret,ZETA DIVISION
+314311,2:1,Sunset,Team Secret,13,ZETA DIVISION,7,L,W,Team Secret,ZETA DIVISION
+314312,0:2,Lotus,BLEED,2,Rex Regum Qeon,13,W,L,Rex Regum Qeon,BLEED
+314312,0:2,Icebox,BLEED,5,Rex Regum Qeon,13,W,L,Rex Regum Qeon,BLEED
+314313,2:0,Split,Gen.G,13,DetonatioN FocusMe,8,L,W,Gen.G,DetonatioN FocusMe
+314313,2:0,Lotus,Gen.G,13,DetonatioN FocusMe,7,L,W,Gen.G,DetonatioN FocusMe
+314314,1:2,Icebox,Global Esports,13,Talon Esports,4,L,W,Talon Esports,Global Esports
+314314,1:2,Breeze,Global Esports,12,Talon Esports,14,L,W,Talon Esports,Global Esports
+314314,1:2,Lotus,Global Esports,6,Talon Esports,13,W,L,Talon Esports,Global Esports
+314315,2:0,Ascent,T1,13,Rex Regum Qeon,6,L,W,T1,Rex Regum Qeon
+314315,2:0,Lotus,T1,13,Rex Regum Qeon,8,L,W,T1,Rex Regum Qeon
+314316,1:2,Sunset,BLEED,9,ZETA DIVISION,13,W,L,ZETA DIVISION,BLEED
+314316,1:2,Ascent,BLEED,13,ZETA DIVISION,9,L,W,ZETA DIVISION,BLEED
+314316,1:2,Lotus,BLEED,8,ZETA DIVISION,13,W,L,ZETA DIVISION,BLEED
+314317,1:2,Bind,Gen.G,10,DRX,13,L,W,DRX,Gen.G
+314317,1:2,Ascent,Gen.G,13,DRX,9,L,W,DRX,Gen.G
+314317,1:2,Split,Gen.G,7,DRX,13,W,L,DRX,Gen.G
+314318,2:1,Lotus,BLEED,9,DetonatioN FocusMe,13,W,L,BLEED,DetonatioN FocusMe
+314318,2:1,Split,BLEED,13,DetonatioN FocusMe,7,L,W,BLEED,DetonatioN FocusMe
+314318,2:1,Ascent,BLEED,13,DetonatioN FocusMe,4,L,W,BLEED,DetonatioN FocusMe
+314319,2:0,Lotus,Global Esports,13,Rex Regum Qeon,10,W,L,Global Esports,Rex Regum Qeon
+314319,2:0,Icebox,Global Esports,13,Rex Regum Qeon,4,L,W,Global Esports,Rex Regum Qeon
+314320,2:0,Icebox,Team Secret,13,Paper Rex,9,L,W,Team Secret,Paper Rex
+314320,2:0,Sunset,Team Secret,13,Paper Rex,8,L,W,Team Secret,Paper Rex
+314321,0:2,Lotus,T1,11,Talon Esports,13,L,W,Talon Esports,T1
+314321,0:2,Bind,T1,10,Talon Esports,13,L,W,Talon Esports,T1
+314322,2:0,Split,Gen.G,13,ZETA DIVISION,8,L,W,Gen.G,ZETA DIVISION
+314322,2:0,Ascent,Gen.G,14,ZETA DIVISION,12,W,L,Gen.G,ZETA DIVISION
+314323,2:1,Lotus,Team Secret,13,DetonatioN FocusMe,4,L,W,Team Secret,DetonatioN FocusMe
+314323,2:1,Breeze,Team Secret,9,DetonatioN FocusMe,13,W,L,Team Secret,DetonatioN FocusMe
+314323,2:1,Sunset,Team Secret,13,DetonatioN FocusMe,2,L,W,Team Secret,DetonatioN FocusMe
+314324,0:2,Sunset,Global Esports,4,Paper Rex,13,W,L,Paper Rex,Global Esports
+314324,0:2,Icebox,Global Esports,7,Paper Rex,13,W,L,Paper Rex,Global Esports
+314325,0:2,Ascent,BLEED,5,Paper Rex,13,W,L,Paper Rex,BLEED
+314325,0:2,Bind,BLEED,6,Paper Rex,13,W,L,Paper Rex,BLEED
+314326,2:1,Split,Global Esports,10,DetonatioN FocusMe,13,L,W,Global Esports,DetonatioN FocusMe
+314326,2:1,Lotus,Global Esports,13,DetonatioN FocusMe,5,L,W,Global Esports,DetonatioN FocusMe
+314326,2:1,Ascent,Global Esports,13,DetonatioN FocusMe,11,W,L,Global Esports,DetonatioN FocusMe
+314327,2:1,Bind,T1,11,ZETA DIVISION,13,L,W,T1,ZETA DIVISION
+314327,2:1,Lotus,T1,13,ZETA DIVISION,9,L,W,T1,ZETA DIVISION
+314327,2:1,Sunset,T1,13,ZETA DIVISION,10,W,L,T1,ZETA DIVISION
+314328,1:2,Sunset,Team Secret,13,Talon Esports,11,W,L,Talon Esports,Team Secret
+314328,1:2,Lotus,Team Secret,11,Talon Esports,13,L,W,Talon Esports,Team Secret
+314328,1:2,Breeze,Team Secret,10,Talon Esports,13,L,W,Talon Esports,Team Secret
+314329,0:2,Bind,BLEED,9,DRX,13,W,L,DRX,BLEED
+314329,0:2,Breeze,BLEED,4,DRX,13,W,L,DRX,BLEED
+314330,1:2,Breeze,Gen.G,13,Rex Regum Qeon,3,L,W,Rex Regum Qeon,Gen.G
+314330,1:2,Ascent,Gen.G,11,Rex Regum Qeon,13,L,W,Rex Regum Qeon,Gen.G
+314330,1:2,Split,Gen.G,10,Rex Regum Qeon,13,L,W,Rex Regum Qeon,Gen.G

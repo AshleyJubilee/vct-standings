@@ -32,11 +32,10 @@ for region in regions.keys():
                             'Losses': regions[region].groupby('matchLoser')['id'].nunique()}).fillna(0)
     
     teams = pd.merge(record, maps, left_index=True, right_index=True).merge(rounds, left_index=True, right_index=True).astype(int)
+    teams = teams.merge(groups, how='left', left_index=True, right_on='team').set_index('team')
     teams.insert(2, 'Map Wins', teams.pop('Map Wins'))
-    teams.index.rename('team', inplace=True)
+    teams.insert(0, 'Group', teams.pop('group'))
     teams.drop(columns=['id'], inplace=True)
-    teams = teams.merge(groups, on='team', how='left')
-    teams.insert(1, 'Group', teams.pop('group'))
 
 
     teams.to_csv(f'resources/{region}Teams.csv')

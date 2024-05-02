@@ -1,12 +1,12 @@
-,team,Group,Wins,Losses,Map Wins,Map Losses,Map Delta,Round Wins,Round Losses,Round Delta
-0,BLEED,alpha,1,5,4,11,-7,122,172,-50
-1,DRX,omega,5,0,10,2,8,148,97,51
-2,DetonatioN FocusMe,omega,1,4,5,9,-4,118,166,-48
-3,Gen.G,alpha,3,3,9,6,3,173,153,20
-4,Global Esports,alpha,2,4,6,9,-3,140,162,-22
-5,Paper Rex,omega,4,1,8,3,5,133,100,33
-6,Rex Regum Qeon,omega,3,2,6,6,0,116,128,-12
-7,T1,alpha,2,4,6,9,-3,164,165,-1
-8,Talon Esports,omega,4,1,8,5,3,146,138,8
-9,Team Secret,alpha,3,3,8,8,0,178,160,18
-10,ZETA DIVISION,omega,2,3,6,8,-2,151,148,3
+team,Group,Wins,Losses,Map Wins,Map Losses,Map Delta,Round Wins,Round Losses,Round Delta
+BLEED,alpha,1,5,4,11,-7,122,172,-50
+DRX,omega,5,0,10,2,8,148,97,51
+DetonatioN FocusMe,omega,1,4,5,9,-4,118,166,-48
+Gen.G,alpha,3,3,9,6,3,173,153,20
+Global Esports,alpha,2,4,6,9,-3,140,162,-22
+Paper Rex,omega,4,1,8,3,5,133,100,33
+Rex Regum Qeon,omega,3,2,6,6,0,116,128,-12
+T1,alpha,2,4,6,9,-3,164,165,-1
+Talon Esports,omega,4,1,8,5,3,146,138,8
+Team Secret,alpha,3,3,8,8,0,178,160,18
+ZETA DIVISION,omega,2,3,6,8,-2,151,148,3
